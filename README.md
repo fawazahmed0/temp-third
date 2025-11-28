@@ -1,4 +1,4 @@
-# Last Third Night Calculator
+# Last Third Night Calculator (old repo)
  Calculate last third night for praying
 
 **Link:** https://fawazahmed0.github.io/last-third-night-calculator <br>
